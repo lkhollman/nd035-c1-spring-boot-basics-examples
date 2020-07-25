@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l5-selenium-webdriver-master/L5_Selenium_WebDriver.iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l5-selenium-webdriver-master/L5_Selenium_WebDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l4-testing-with-junit-master/L5_Testing_with_JUnit.iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l4-testing-with-junit-master/L5_Testing_with_JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Udacity Java spring basics.iml" filepath="$PROJECT_DIR$/.idea/Udacity Java spring basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l3-mvc-and-you-1-master/mvc_basics.iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l3-mvc-and-you-1-master/mvc_basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l3-html-templates-master/mvc_basics (1).iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l3-html-templates-master/mvc_basics (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l3-connecting-controllers-1-master/mvc_basics (2).iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l3-connecting-controllers-1-master/mvc_basics (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l3-connecting-controllers-2-master/mvc_basics (3).iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l3-connecting-controllers-2-master/mvc_basics (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l1-final-review-solution-master/review.iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l1-final-review-solution-master/review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l2-final-review-solution-master/review (1).iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l2-final-review-solution-master/review (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l3-final-review-solution-master/review (2).iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l3-final-review-solution-master/review (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l4-final-review-solution-master/review (3).iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l4-final-review-solution-master/review (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-snippets-master/snippets.iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-snippets-master/snippets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l2-spring-ioc-config-master/spring-ioc-configuration-demo.iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l2-spring-ioc-config-master/spring-ioc-configuration-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l4-spring-security-basics-master/spring_security_basics.iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l4-spring-security-basics-master/spring_security_basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l2-server-config-master/springconfig.iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l2-server-config-master/springconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udacity-jwdnd-c1-l5-junit-and-selenium-master/user-testing.iml" filepath="$PROJECT_DIR$/udacity-jwdnd-c1-l5-junit-and-selenium-master/user-testing.iml" />
+    </modules>
+  </component>
+</project>
